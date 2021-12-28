@@ -4,7 +4,7 @@ Created on Tue Dec 28 20:43:31 2021
 @author: Abdullah
 """
 
-
+# ELEMEN KOMPETENSI 1
 def reverse(list):
     return tuple(i for i in list)
 
