@@ -51,5 +51,5 @@ def elkom4(list_abdul):
             memenuhi += 1
 
 
-elkom4(['abc', 'xyz', 'cac', '54325', ])
+elkom4(['abc', 'xyz', 'cac', '54325'])
 print("Terdapat {} string yang memenuhi kriteria".format(memenuhi))
